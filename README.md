@@ -1,3 +1,6 @@
-- Hi im lee :) made this for pony town only nothing more
-![image](https://github.com/user-attachments/assets/0b6552d7-f788-44c5-a3eb-bcf42606f69f)
-- [click click](https://arab.org/click-to-help/palestine/)
+<p align="center">
+ Hi im lee :) made this for pony town only hehe
+<br>
+ <p align="center">
+<img wdth="300" height="283" src="https://github.com/user-attachments/assets/51d3556f-5e57-49fe-8b4f-446a104f727c">
+ </p>
