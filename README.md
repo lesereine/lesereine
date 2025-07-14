@@ -3,5 +3,5 @@
 <br>
  <p align="center">
 <img wdth="320" height="180" 
- src="https://i.imgur.com/WCx3SZb.jpeg">
+ src="https://i.imgur.com/QZdszbc.jpeg">
  </p>
