@@ -1,9 +1,8 @@
 <p align="center">
- remember you clicked on my face
+⠀⠀remember you clicked on my face
+⠀⠀
 <br>
  <p align="center">
 <img wdth="560" height="220" 
- src="https://pbs.twimg.com/media/G3tz6YsWgAAVIrY?format=jpg&name=large">
-  <p align="center">
-   @gei_gocic
+ src="https://dividers.crd.co/assets/images/gallery03/6a76c447.png?v=05d33f91">
  </p>
