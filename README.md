@@ -1,8 +1,9 @@
- <p align="center">
-<img wdth="540" height=235" 
- src="https://i.imgur.com/Bhpi0EM.png">
- </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24ac2bd2-27c2-4c52-bd6e-daeab82919d6" alt="shu"/> <img 
+  <img src="https://github.com/user-attachments/assets/e653b5ef-7fde-48d3-8998-fa9241c606ba" alt="more shu"/>
+</p>
 <p align="center">
 ⠀⠀remember you clicked on my face
-⠀⠀
-<br>
+  
+
+
